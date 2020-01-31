@@ -25,7 +25,7 @@ public class Book {
      }  
      
      
-     //Let's also code a copy ctor which will create/clone a book based on an existing book (passed in through the parameter)
+     
      public Book(Book existing)
      {
       title = existing.title;
